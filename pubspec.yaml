@@ -43,6 +43,8 @@ dependencies:
   go_router: ^13.2.0
   freezed_annotation: ^2.4.4
   json_annotation: ^4.9.0
+  widgetbook: ^3.8.1
+  widgetbook_annotation: ^3.2.0
 
 dev_dependencies:
   flutter_test:
@@ -50,6 +52,7 @@ dev_dependencies:
   flutter_lints: ^4.0.0
   build_runner: ^2.4.9
   json_serializable: ^6.8.0
+  widgetbook_generator: ^3.9.1
 
 flutter:
   uses-material-design: true
